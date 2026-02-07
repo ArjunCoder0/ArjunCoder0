@@ -54,7 +54,7 @@ I'm **Arjun Sagar**, a passionate UI/UX Designer & Web Developer from India.
 
 ![](https://github-profile-trophy.vercel.app/?username=ArjunCoder0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## � Pinned Repositories
+## 💥Pinned Repositories
 
 Check out my featured projects on my [GitHub profile](https://github.com/ArjunCoder0)!
 
